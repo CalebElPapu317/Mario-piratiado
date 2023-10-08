@@ -1,0 +1,48 @@
+body{
+    font-family: 'Pixelify Sans', cursive;
+    background-image: url("main-qimg-a160dcb53b5a8a396b008f7647e7f46e-pjlq.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.instruction_image{
+    display: inline-block;
+    width: 25%;
+}
+
+.modal-dialog{
+    width: 70%;
+}
+
+h4{
+    display: inline-block;
+}
+
+video{
+   
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+
+canvas{
+    
+      border-radius: 30px;
+      border:10px solid rgba(204, 167, 44, 0.726);
+      box-shadow:10px 10px 10px rgb(0, 0, 0);
+}
+
+button{
+    background-color: rgba(202, 193, 60, 0.767);
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+h1{
+    background-color: rgba(252, 227, 88, 0.925);
+    margin-top: auto;
+    height: 70px;
+    box-shadow:10px 10px 10px rgba(228, 194, 46, 0.377);
+}
